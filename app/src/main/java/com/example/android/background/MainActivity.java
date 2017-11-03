@@ -130,7 +130,7 @@ public class MainActivity extends AppCompatActivity implements
     }
 
     private void Test(){
-
+        Toast.makeText(this, "Hi...", Toast.LENGTH_SHORT).show();
     }
 
     /**
