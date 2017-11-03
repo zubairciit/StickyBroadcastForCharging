@@ -129,6 +129,10 @@ public class MainActivity extends AppCompatActivity implements
         mWaterCountDisplay.setText(waterCount+"");
     }
 
+    private void Test(){
+
+    }
+
     /**
      * Updates the TextView to display the new charging reminder count from SharedPreferences
      */
